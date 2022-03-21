@@ -1,2 +1,2 @@
-# UnityVR_Development_Guide
-『Quest2 &amp; XR Interaction ToolkitでVRゲームを作ってみよう』のサンプルアプリです。
+# サンプルアプリ「SampleVR」
+『Quest2 & XR Interaction ToolkitでVRゲームを作ってみよう』のサンプルアプリです。
